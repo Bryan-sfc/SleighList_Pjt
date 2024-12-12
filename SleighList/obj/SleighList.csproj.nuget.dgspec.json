@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\55890867873\\Desktop\\Projeto_mvc\\SleighList\\SleighList.csproj": {}
+    "C:\\Users\\55890867873\\Desktop\\SleighList_Pjt\\SleighList\\SleighList.csproj": {}
   },
   "projects": {
-    "C:\\Users\\55890867873\\Desktop\\Projeto_mvc\\SleighList\\SleighList.csproj": {
+    "C:\\Users\\55890867873\\Desktop\\SleighList_Pjt\\SleighList\\SleighList.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\55890867873\\Desktop\\Projeto_mvc\\SleighList\\SleighList.csproj",
+        "projectUniqueName": "C:\\Users\\55890867873\\Desktop\\SleighList_Pjt\\SleighList\\SleighList.csproj",
         "projectName": "SleighList",
-        "projectPath": "C:\\Users\\55890867873\\Desktop\\Projeto_mvc\\SleighList\\SleighList.csproj",
+        "projectPath": "C:\\Users\\55890867873\\Desktop\\SleighList_Pjt\\SleighList\\SleighList.csproj",
         "packagesPath": "C:\\Users\\55890867873\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\55890867873\\Desktop\\Projeto_mvc\\SleighList\\obj\\",
+        "outputPath": "C:\\Users\\55890867873\\Desktop\\SleighList_Pjt\\SleighList\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\55890867873\\AppData\\Roaming\\NuGet\\NuGet.Config",
