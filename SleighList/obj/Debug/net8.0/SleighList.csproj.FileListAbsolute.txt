@@ -21,9 +21,7 @@ C:\Users\55890867873\Desktop\SleighList_Pjt\SleighList\obj\Debug\net8.0\staticwe
 C:\Users\55890867873\Desktop\SleighList_Pjt\SleighList\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SleighList.props
 C:\Users\55890867873\Desktop\SleighList_Pjt\SleighList\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SleighList.props
 C:\Users\55890867873\Desktop\SleighList_Pjt\SleighList\obj\Debug\net8.0\staticwebassets.pack.json
-C:\Users\55890867873\Desktop\SleighList_Pjt\SleighList\obj\Debug\net8.0\scopedcss\Views\Produto\ListaProdutos.cshtml.rz.scp.css
 C:\Users\55890867873\Desktop\SleighList_Pjt\SleighList\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
-C:\Users\55890867873\Desktop\SleighList_Pjt\SleighList\obj\Debug\net8.0\scopedcss\Views\Usuario\Usuario.cshtml.rz.scp.css
 C:\Users\55890867873\Desktop\SleighList_Pjt\SleighList\obj\Debug\net8.0\scopedcss\bundle\SleighList.styles.css
 C:\Users\55890867873\Desktop\SleighList_Pjt\SleighList\obj\Debug\net8.0\scopedcss\projectbundle\SleighList.bundle.scp.css
 C:\Users\55890867873\Desktop\SleighList_Pjt\SleighList\obj\Debug\net8.0\SleighList.dll
@@ -31,3 +29,7 @@ C:\Users\55890867873\Desktop\SleighList_Pjt\SleighList\obj\Debug\net8.0\refint\S
 C:\Users\55890867873\Desktop\SleighList_Pjt\SleighList\obj\Debug\net8.0\SleighList.pdb
 C:\Users\55890867873\Desktop\SleighList_Pjt\SleighList\obj\Debug\net8.0\SleighList.genruntimeconfig.cache
 C:\Users\55890867873\Desktop\SleighList_Pjt\SleighList\obj\Debug\net8.0\ref\SleighList.dll
+C:\Users\55890867873\Desktop\SleighList_Pjt\SleighList\obj\Debug\net8.0\scopedcss\Views\Editar\Index.cshtml.rz.scp.css
+C:\Users\55890867873\Desktop\SleighList_Pjt\SleighList\obj\Debug\net8.0\scopedcss\Views\Login\Index.cshtml.rz.scp.css
+C:\Users\55890867873\Desktop\SleighList_Pjt\SleighList\obj\Debug\net8.0\scopedcss\Views\Produto\Index.cshtml.rz.scp.css
+C:\Users\55890867873\Desktop\SleighList_Pjt\SleighList\obj\Debug\net8.0\scopedcss\Views\Home\Index.cshtml.rz.scp.css

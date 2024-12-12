@@ -1,4 +1,7 @@
-/* _content/SleighList/Views/Produto/ListaProdutos.cshtml.rz.scp.css */
+/* _content/SleighList/Views/Editar/Index.cshtml.rz.scp.css */
+/* _content/SleighList/Views/Home/Index.cshtml.rz.scp.css */
+/* _content/SleighList/Views/Login/Index.cshtml.rz.scp.css */
+/* _content/SleighList/Views/Produto/Index.cshtml.rz.scp.css */
 /* _content/SleighList/Views/Shared/_Layout.cshtml.rz.scp.css */
 /* Please see documentation at https://learn.microsoft.com/aspnet/core/client-side/bundling-and-minification
 for details on configuring this project to bundle and minify static web assets. */
@@ -48,4 +51,3 @@ button.accept-policy[b-3qslldto7v] {
   white-space: nowrap;
   line-height: 60px;
 }
-/* _content/SleighList/Views/Usuario/Usuario.cshtml.rz.scp.css */
