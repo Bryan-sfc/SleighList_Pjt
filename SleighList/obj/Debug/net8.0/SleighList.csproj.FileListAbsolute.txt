@@ -168,3 +168,4 @@ C:\Users\55890867873\Desktop\SleighList_Pjt\SleighList\obj\Debug\net8.0\SleighLi
 C:\Users\55890867873\Desktop\SleighList_Pjt\SleighList\obj\Debug\net8.0\SleighList.csproj.Up2Date
 C:\Users\55890867873\Desktop\SleighList_Pjt\SleighList\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\55890867873\Desktop\SleighList_Pjt\SleighList\obj\Debug\net8.0\scopedcss\Views\Item\Index.cshtml.rz.scp.css
+C:\Users\55890867873\Desktop\SleighList_Pjt\SleighList\obj\Debug\net8.0\scopedcss\Views\Home\Index.cshtml.rz.scp.css

@@ -1,0 +1,28 @@
+.divLeft[b-acp5oohxnx] {
+    width: 49.5%;
+    height: 949px;
+    float: left;
+    position: relative;
+}
+
+#spaceText[b-acp5oohxnx] {
+    padding-right: 16px;
+}
+
+header div img[b-acp5oohxnx] {
+    max-width: fit-content;
+    height: 650px;
+}
+
+h1[b-acp5oohxnx] {
+    color: white;
+}
+
+.textDiv[b-acp5oohxnx]{
+   position: left;
+   top: 0;
+   left: 0;
+   
+   /*cor apenas para exmplo*/
+   color: #fff;
+}

@@ -1,7 +1,39 @@
+/* _content/SleighList/Views/Home/Index.cshtml.rz.scp.css */
+.divLeft[b-acp5oohxnx] {
+    width: 49.5%;
+    height: 949px;
+    float: left;
+    position: relative;
+}
+
+#spaceText[b-acp5oohxnx] {
+    padding-right: 16px;
+}
+
+header div img[b-acp5oohxnx] {
+    max-width: fit-content;
+    height: 650px;
+}
+
+h1[b-acp5oohxnx] {
+    color: white;
+}
+
+.textDiv[b-acp5oohxnx]{
+   position: left;
+   top: 0;
+   left: 0;
+   
+   /*cor apenas para exmplo*/
+   color: #fff;
+}
 /* _content/SleighList/Views/Item/Index.cshtml.rz.scp.css */
 /* _content/SleighList/Views/Shared/_Layout.cshtml.rz.scp.css */
-/* Please see documentation at https://learn.microsoft.com/aspnet/core/client-side/bundling-and-minification
-for details on configuring this project to bundle and minify static web assets. */
+*[b-3qslldto7v] {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
 
 a.navbar-brand[b-3qslldto7v] {
     white-space: normal;

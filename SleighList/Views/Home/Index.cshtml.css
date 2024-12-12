@@ -9,13 +9,17 @@
     padding-right: 16px;
 }
 
-#photo {
-    width: 1600px;
-    height: 949px;
+header div img {
+    max-width: fit-content;
+    height: 650px;
+}
+
+h1 {
+    color: white;
 }
 
 .textDiv{
-   position: absolute;
+   position: left;
    top: 0;
    left: 0;
    
