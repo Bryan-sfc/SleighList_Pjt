@@ -1,0 +1,24 @@
+.divLeft {
+    width: 49.5%;
+    height: 949px;
+    float: left;
+    position: relative;
+}
+
+#spaceText {
+    padding-right: 16px;
+}
+
+#photo {
+    width: 1600px;
+    height: 949px;
+}
+
+.textDiv{
+   position: absolute;
+   top: 0;
+   left: 0;
+   
+   /*cor apenas para exmplo*/
+   color: #fff;
+}
