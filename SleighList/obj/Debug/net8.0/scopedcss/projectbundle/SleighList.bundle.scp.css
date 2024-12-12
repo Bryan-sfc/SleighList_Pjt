@@ -6,7 +6,7 @@
     position: relative;
 }
 
-#spaceText[b-acp5oohxnx] {
+.spaceText[b-acp5oohxnx] {
     padding-right: 16px;
 }
 
@@ -16,16 +16,8 @@ header div img[b-acp5oohxnx] {
 }
 
 h1[b-acp5oohxnx] {
-    color: white;
-}
-
-.textDiv[b-acp5oohxnx]{
-   position: left;
-   top: 0;
-   left: 0;
-   
-   /*cor apenas para exmplo*/
-   color: #fff;
+    color: black;
+    font-size: 40px;
 }
 /* _content/SleighList/Views/Item/Index.cshtml.rz.scp.css */
 /* _content/SleighList/Views/Shared/_Layout.cshtml.rz.scp.css */
