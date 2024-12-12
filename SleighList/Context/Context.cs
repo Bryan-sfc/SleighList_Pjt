@@ -25,7 +25,7 @@ namespace SleighList.Context
             // As configuracoes existem?
             if (!optionsBuilder.IsConfigured)
             {
-                optionsBuilder.UseSqlServer("Data Source=NOTE36-S28\\SQLEXPRESS; Initial Catalog = Bibliotec_mvc; User Id=sa; Password=123; TrustServerCertificate = true");
+                optionsBuilder.UseSqlServer("Data Source=NOTE36-S28\\SQLEXPRESS; Initial Catalog = SleighList; User Id=sa; Password=123; TrustServerCertificate = true");
             }
         }
 
