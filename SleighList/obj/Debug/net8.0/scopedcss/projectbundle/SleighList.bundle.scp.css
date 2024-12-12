@@ -1,13 +1,6 @@
 /* _content/SleighList/Views/Home/Index.cshtml.rz.scp.css */
 .divLeft[b-acp5oohxnx] {
-    width: 49.5%;
-    height: 949px;
     float: left;
-    position: relative;
-}
-
-.spaceText[b-acp5oohxnx] {
-    padding-right: 16px;
 }
 
 header div img[b-acp5oohxnx] {
@@ -15,7 +8,7 @@ header div img[b-acp5oohxnx] {
     height: 650px;
 }
 
-h1[b-acp5oohxnx] {
+.textPosition[b-acp5oohxnx] {
     color: black;
     font-size: 40px;
 }

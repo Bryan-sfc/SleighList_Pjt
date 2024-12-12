@@ -1,12 +1,7 @@
-.divLeft {
-    width: 49.5%;
-    height: 949px;
-    float: left;
-    position: relative;
-}
 
-.spaceText {
-    padding-right: 16px;
+
+.divLeft {
+    float: left;
 }
 
 header div img {
@@ -14,7 +9,7 @@ header div img {
     height: 650px;
 }
 
-h1 {
+.textPosition {
     color: black;
     font-size: 40px;
 }
