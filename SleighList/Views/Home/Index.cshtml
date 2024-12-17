@@ -1,33 +1,46 @@
-<body>   
-<header>
-    <img class="img_banner" src="\Images\Group 25.png">
-    
-    <div class="divLeft">
-        <h1>Deixe a correria para o Papai Noel, organize tudo com o SleighList.</h1>
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>style</title>
+    <link rel="stylesheet" href="index.css">
+</head>
+<header class="header">
+    <div class="header-content">
+        <img src="Images/Logo.png" alt="Logo" class="logo">
+        <div class="text-content">
+            <h2>Deixe a correria para o Papai Noel,<br> organize tudo com o SleighList.</h2>
+        </div>
     </div>
 </header>
 
 
-<main>
-    <article class="bk-login">
-        <div class="form-box">
-            <h2>Acesse Sua Conta</h2>
-            <form class="formulario" style="width: 60%; display: flex; flex-direction: column;" method="post"
-                action="@Url.Action("Logar")">
-                <label class="frm-label" for="email">E-mail</label>
-                <input type="email" id="email" class="frm-input" placeholder="email@alunosenai.com" name="Email">
+<body>
+    <main class="container">
+        <form>
+            <h1>Acesse sua conta </h1>
+            <div class="input-box">
+                <input placeholder="Email   " type="email">
+                <i class="bx bxs-user"></i>
 
-                <label class="frm-label" for="senha">Senha</label>
-                <input type="password" name="Senha" id="senha" class="frm-input" placeholder="*******">
+            </div>
+            <div class="input-box">
+                <input placeholder="Senha" type="password">
+                <i class="bx bxs-lock-alt"></i>
+            </div>
 
-                <a href="#" class="esqueci-senha">Esqueci minha senha</a>
-                <button type="submit" class="btn-entrar">Entrar</button>
-            </form>
-        </div>
+            <div class="remember-forgot">
+                <a href="#">Esqueci minha senha</a>
+            </div>
+            <button class="Login" type="submit">Login</button>
+        </form>
+    </main>
+    <footer>
+        © 2024 - SEDUC - Agenda Nata
+    </footer>
 
-    </article>
-</main>
-<footer>
-    <p>© 2024 - SEDUC - Agenda Natal</p>
-</footer>
 </body>
+
+</html>
