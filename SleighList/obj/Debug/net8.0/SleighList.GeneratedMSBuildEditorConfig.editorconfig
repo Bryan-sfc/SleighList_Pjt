@@ -26,10 +26,6 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\55890867873\Desktop\SleighList_Pjt\SleighList
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/55890867873/Desktop/SleighList_Pjt/SleighList/Views/Item/Editar.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlbVxFZGl0YXIuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
 [C:/Users/55890867873/Desktop/SleighList_Pjt/SleighList/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
